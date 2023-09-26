@@ -1,0 +1,6 @@
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\Escape Sequence - Acme Welcome Screen\Escape Sequence - Acme Welcome Screen\bin\Debug\Escape Sequence - Acme Welcome Screen.exe.config
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\Escape Sequence - Acme Welcome Screen\Escape Sequence - Acme Welcome Screen\bin\Debug\Escape Sequence - Acme Welcome Screen.exe
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\Escape Sequence - Acme Welcome Screen\Escape Sequence - Acme Welcome Screen\bin\Debug\Escape Sequence - Acme Welcome Screen.pdb
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\Escape Sequence - Acme Welcome Screen\Escape Sequence - Acme Welcome Screen\obj\Debug\Escape Sequence - Acme Welcome Screen.csproj.CoreCompileInputs.cache
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\Escape Sequence - Acme Welcome Screen\Escape Sequence - Acme Welcome Screen\obj\Debug\Escape Sequence - Acme Welcome Screen.exe
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\Escape Sequence - Acme Welcome Screen\Escape Sequence - Acme Welcome Screen\obj\Debug\Escape Sequence - Acme Welcome Screen.pdb

@@ -1,0 +1,7 @@
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\ComparisonProject\ComparisonProject\bin\Debug\ComparisonProject.exe.config
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\ComparisonProject\ComparisonProject\bin\Debug\ComparisonProject.exe
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\ComparisonProject\ComparisonProject\bin\Debug\ComparisonProject.pdb
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\ComparisonProject\ComparisonProject\obj\Debug\ComparisonProject.csproj.AssemblyReference.cache
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\ComparisonProject\ComparisonProject\obj\Debug\ComparisonProject.csproj.CoreCompileInputs.cache
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\ComparisonProject\ComparisonProject\obj\Debug\ComparisonProject.exe
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\ComparisonProject\ComparisonProject\obj\Debug\ComparisonProject.pdb

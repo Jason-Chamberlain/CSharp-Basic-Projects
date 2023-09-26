@@ -1,0 +1,6 @@
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\InsuranceApprovalAssignment\InsuranceApprovalAssignment\bin\Debug\InsuranceApprovalAssignment.exe.config
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\InsuranceApprovalAssignment\InsuranceApprovalAssignment\bin\Debug\InsuranceApprovalAssignment.exe
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\InsuranceApprovalAssignment\InsuranceApprovalAssignment\bin\Debug\InsuranceApprovalAssignment.pdb
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\InsuranceApprovalAssignment\InsuranceApprovalAssignment\obj\Debug\InsuranceApprovalAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\InsuranceApprovalAssignment\InsuranceApprovalAssignment\obj\Debug\InsuranceApprovalAssignment.exe
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\InsuranceApprovalAssignment\InsuranceApprovalAssignment\obj\Debug\InsuranceApprovalAssignment.pdb

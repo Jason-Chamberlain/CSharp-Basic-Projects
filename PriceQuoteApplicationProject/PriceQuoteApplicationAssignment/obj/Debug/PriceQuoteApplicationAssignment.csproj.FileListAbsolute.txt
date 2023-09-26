@@ -1,0 +1,7 @@
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\PriceQuoteApplicationAssignment\PriceQuoteApplicationAssignment\bin\Debug\PriceQuoteApplicationAssignment.exe.config
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\PriceQuoteApplicationAssignment\PriceQuoteApplicationAssignment\bin\Debug\PriceQuoteApplicationAssignment.exe
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\PriceQuoteApplicationAssignment\PriceQuoteApplicationAssignment\bin\Debug\PriceQuoteApplicationAssignment.pdb
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\PriceQuoteApplicationAssignment\PriceQuoteApplicationAssignment\obj\Debug\PriceQuoteApplicationAssignment.csproj.AssemblyReference.cache
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\PriceQuoteApplicationAssignment\PriceQuoteApplicationAssignment\obj\Debug\PriceQuoteApplicationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\PriceQuoteApplicationAssignment\PriceQuoteApplicationAssignment\obj\Debug\PriceQuoteApplicationAssignment.exe
+C:\Users\jason\OneDrive\Desktop\Basic_C#_Programs\PriceQuoteApplicationAssignment\PriceQuoteApplicationAssignment\obj\Debug\PriceQuoteApplicationAssignment.pdb
